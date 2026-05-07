@@ -4,22 +4,22 @@ title: "About the Sisters"
 
 The "Seven Sisters" is a group of seven historic women's liberal arts colleges in the New England area. The name is a reference to the mythological Pleiades sisters, who were companions of Artemis and later immortalized as a cluster of stars in the night sky. The association formalized in 1926 with the main goal of addressing inequalities with men's colleges and raising endowments to offer competitive pay to faculty. Today, the Sisters remain an ongoing collaborative effort even as some of the "sisters" are no longer women-only; their main goal is now a shared commitment to diversity and equity.
 
-Learn more about the sisters \[would link to their pages\]:
+Learn more about the sisters:
 
-Barnard College
+[Barnard College](barnard_college.qmd)
 
-Bryn Mawr College
+[Bryn Mawr College](bryn_mawr_college.qmd)
 
-Mount Holyoke College
+[Mount Holyoke College](mount_holyoke_college.qmd)
 
-Smith College
+[Smith College](smith_college.qmd)
 
-Wellsley College
+[Wellesley College](wellesley_college.qmd)
 
-Vassar College
+[Vassar College](vassar_college.qmd)
 
-Radcliffe College
+[Radcliffe College](radcliffe_college.qmd)
 
 \[ideally insert map here\] (this map is from wikipedia but i'd like to make my own)
 
-![Map of the Seven Sisters Colleges](seven sisters maps from wikipedia.png){fig-align="center"}
+![Map of the Seven Sisters Colleges](seven%20sisters%20maps%20from%20wikipedia.png){fig-align="center"}

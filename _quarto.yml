@@ -13,13 +13,15 @@ website:
       - campus_protests.qmd
       - student_newspapers.qmd
       - about_the_sisters.qmd
-      - barnard_college.qmd
-      - bryn_mwar_college.qmd
-      - mount_holyoke_college.qmd
-      - radcliffe_college.qmd
-      - smith_college.qmd
-      - vassar_college.qmd
-      - wellesley_college.qmd
+      - text: The Seven Sisters
+        menu:
+        - barnard_college.qmd
+        - bryn_mwar_college.qmd
+        - mount_holyoke_college.qmd
+        - radcliffe_college.qmd
+        - smith_college.qmd
+        - vassar_college.qmd
+        - wellesley_college.qmd
 
 format:
   html:
