@@ -1,0 +1,9 @@
+---
+title: "Student Newspapers"
+---
+
+Ideally, a word cloud of how often certain phrases show up, such as "draft" "moratorium" "Vietnam" and other key terms
+
+Graph that shows the amount of mentions of each word (see above) per each newspaper across the time period shown by semester and color coded by school
+
+[![Moratorium Day article from the Barnard Bulletin](moratorium%20day%20barnard%20college.png)](https://digitalcollections.barnard.edu/do/52f235e1-80a7-410c-8768-4ec52557e41b#page/6/mode/2up)

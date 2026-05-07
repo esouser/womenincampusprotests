@@ -7,15 +7,16 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - about the sisters.qmd
-      - barnard college.qmd
-      - bryn mwar college.qmd
-      - mount holyoke college.qmd
-      - radcliffe college.qmd
-      - smith college.qmd
-      - vassar college.qmd
-      - wellesley college.qmd
+      - campus_protests.qmd
+      - student_newspapers.qmd
+      - about_the_sisters.qmd
+      - barnard_college.qmd
+      - bryn_mwar_college.qmd
+      - mount_holyoke_college.qmd
+      - radcliffe_college.qmd
+      - smith_college.qmd
+      - vassar_college.qmd
+      - wellesley_college.qmd
 
 format:
   html:
